@@ -4,4 +4,4 @@ botun ready kısmında alışılmadık birşey var onuda açıklıyım Artık bo
 bunu kaldırıp normal bir kullanıcı gibi durumuna yazdırma eklenmiştir Custom yaparak bunu botun durumuna aldırmış oluyoruz yazıları bunu istediğiniz gibi değiştirebilirsiniz
 ready güncelleyerek tekrardan isteyenler oynuyor' a çekebilir**
 
-#discord _zypheris
+# discord _zypheris
